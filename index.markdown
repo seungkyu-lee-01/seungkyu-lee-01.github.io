@@ -8,7 +8,7 @@ title: Seungkyu Lee
 
 <p>Hi, I'm <strong>Seungkyu Lee</strong>, a senior undergraduate in Industrial Engineering at Seoul National University. I study natural language processing with a focus on <strong>tool‑augmented LLMs (agents)</strong>, <strong>efficient reasoning</strong>, and <strong>reliable &amp; truthful LLMs</strong>.</p>
 
-<p>At SNU's Human‑Oriented Language Intelligence Lab., I study LLM-based agents that interact with external APIs, building <strong>parameter‑level API graph resources</strong> that enable agents to better retrieve relevant APIs and compose multi‑step API calls. I also investigate efficient reasoning, developing ways to <strong>curb overthinking in small reasoning models</strong>, resulting in more accurate and reliable tool calls.</p>
+<p>At SNU's Human‑Oriented Language Intelligence Lab, I study LLM-based agents that interact with external APIs, building <strong>parameter‑level API graph resources</strong> that enable agents to better retrieve relevant APIs and compose multi‑step API calls. I also investigate efficient reasoning, developing ways to <strong>curb overthinking in small reasoning models</strong>, resulting in more accurate and reliable tool calls.</p>
 
 <p>Earlier at Gen-AI startup Liner, as a machine learning engineer, I developed <strong>autonomous agents that effectively handle complex user queries</strong> using external APIs. Those production experiences, together with my current research, drive me to combine theoretical work with practical applications and build reliable, capable AI assistants.</p>
 
@@ -46,7 +46,7 @@ title: Seungkyu Lee
 
 <h2>Research Experience</h2>
 
-<h3><strong>Undergraduate Researcher</strong> @ Human-Oriented Language Intelligence Lab., SNU | Advisor: <a href="https://yohanjo.github.io/" style="text-decoration: underline; color: #006400;"> Yohan Jo</a> <span class="date">Aug. 2024 - Present</span></h3>
+<h3><strong>Undergraduate Researcher</strong> @ Human-Oriented Language Intelligence Lab, SNU | Advisor: <a href="https://yohanjo.github.io/" style="text-decoration: underline; color: #006400;"> Yohan Jo</a> <span class="date">Aug. 2024 - Present</span></h3>
 
 <h3><strong>Research Assistant</strong> @ Big Data AI Center, SNU | Advisor: <a href="https://scholar.google.com/citations?user=dEdyEc0AAAAJ&hl=ko" style="text-decoration: underline; color: #006400;"> Sungzoon Cho</a> <span class="date">Jul. 2021 - Aug. 2021</span></h3>
 
