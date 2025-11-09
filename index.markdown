@@ -85,7 +85,7 @@ title: Seungkyu Lee
 
 <hr>
 <p><em>"The best way to predict the future is to invent it."</em> - Alan Kay</p>
-<p><em>Last updated: Oct. 2025</em></p>
+<p><em>Last updated: Nov. 2025</em></p>
 
 <style>
 div[class$="-section"] {
