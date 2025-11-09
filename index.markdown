@@ -12,7 +12,7 @@ title: Seungkyu Lee
 
 <p>At SNU's Human-Oriented Language Intelligence Lab, I now study how to make such agents reason and act more intelligently. Through my work <strong>In-N-Out</strong>, I build parameter-level API graphs that teach models how tools depend on one another, enabling more structured and efficient tool use. In my follow-up work <strong>ThinkBrake</strong>, I design mechanisms that detect and halt redundant reasoning, helping small models act decisively without overthinking.</p>
 
-<p>Looking forward, I aim to build AI agents that are both <strong>efficient and adaptive</strong>—capable of planning tool calls with minimal reasoning overhead while understanding user intent and preferences in ambiguous contexts. By uniting <strong>structured reasoning</strong> with <strong>personalized behavior</strong>, I hope to advance toward AI systems that not only perform <strong>accurately and cost-effectively</strong> but also collaborate naturally with people.</p>
+<p>Looking forward, I aim to build AI agents that are both <strong>efficient and adaptive</strong>—capable of planning tool calls with minimal reasoning overhead while understanding user intent and preferences in ambiguous contexts. By uniting <strong>structured reasoning</strong> with <strong>personalized behavior</strong>, I hope to advance toward AI systems that not only perform accurately and cost-effectively but also collaborate naturally with people.</p>
 
 
 </div>
