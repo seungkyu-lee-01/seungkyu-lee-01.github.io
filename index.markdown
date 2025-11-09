@@ -6,11 +6,13 @@ title: Seungkyu Lee
 <div class="about-section" id="about">
 <h1>About</h1>
 
-<p>Hi, I'm <strong>Seungkyu Lee</strong>, a senior undergraduate in Industrial Engineering at Seoul National University. I study natural language processing with a focus on <strong>tool‑augmented LLMs (agents)</strong>, <strong>efficient reasoning</strong>, and <strong>reliable &amp; truthful LLMs</strong>.</p>
+<p>Hi, I'm <strong>Seungkyu Lee</strong>, a senior undergraduate in Industrial Engineering at Seoul National University. I study natural language processing, focusing on <strong>tool-augmented LLMs (agents)</strong>, <strong>efficient reasoning</strong>, and <strong>personalized, reliable AI systems</strong>.</p>
 
-<p>At SNU's Human‑Oriented Language Intelligence Lab, I study LLM-based agents that interact with external APIs, building <strong>parameter‑level API graph resources</strong> that enable agents to better retrieve relevant APIs and compose multi‑step API calls. I also investigate efficient reasoning, developing ways to <strong>curb overthinking in small reasoning models</strong>, resulting in more accurate and reliable tool calls.</p>
+<p>My interest in tool-using agents began while developing an <strong>LLM-based assistant for over 10 million users</strong> at an AI startup. I saw firsthand how describing real-world APIs—like search or map services—within a model's context could let it reason and act dynamically to complete complex tasks. That experience reshaped how I viewed language models: not just as text generators, but as interfaces between human intent and digital ecosystems.</p>
 
-<p>Earlier at Gen-AI startup Liner, as a machine learning engineer, I developed <strong>autonomous agents that effectively handle complex user queries</strong> using external APIs. Those production experiences, together with my current research, drive me to combine theoretical work with practical applications and build reliable, capable AI assistants.</p>
+<p>At SNU's Human-Oriented Language Intelligence Lab, I now study how to make such agents reason and act more intelligently. Through my work <strong>In-N-Out</strong>, I build parameter-level API graphs that teach models how tools depend on one another, enabling more structured and efficient tool use. In my follow-up work <strong>ThinkBrake</strong>, I design mechanisms that detect and halt redundant reasoning, helping small models act decisively without overthinking.</p>
+
+<p>Looking forward, I aim to build AI agents that are both <strong>efficient and adaptive</strong>—capable of planning tool calls with minimal reasoning overhead while understanding user intent and preferences in ambiguous contexts. By uniting <strong>structured reasoning</strong> with <strong>personalized behavior</strong>, I hope to advance toward AI systems that not only perform <strong>accurately and cost-effectively</strong> but also collaborate naturally with people.</p>
 
 
 </div>
