@@ -6,13 +6,13 @@ title: Seungkyu Lee
 <div class="about-section" id="about">
 <h1>About</h1>
 
-<p>Hi, I'm <strong>Seungkyu Lee</strong>, a senior undergraduate in Industrial Engineering at Seoul National University. I study natural language processing, focusing on <strong>tool-augmented LLMs (agents)</strong>, <strong>efficient reasoning</strong>, and <strong>personalized, reliable AI systems</strong>.</p>
+<p>Hi, I'm <strong>Seungkyu Lee</strong>, a senior undergraduate in Industrial Engineering at Seoul National University. I study natural language processing, focusing on <strong>LLM-based agents</strong>, <strong>efficient reasoning</strong>, and <strong>personalized AI systems</strong>.</p>
 
-<p>My interest in tool-using agents began while developing an <strong>LLM-based assistant for over 10 million users</strong> at an AI startup. I saw firsthand how describing real-world APIs—like search or map services—within a model's context could let it reason and act dynamically to complete complex tasks. That experience reshaped how I viewed language models: not just as text generators, but as interfaces between human intent and digital ecosystems.</p>
+<p>My interest in language agents began while developing an <strong>information-seeking agent for over 10 million users</strong> at an AI startup. When given a user query, the model inferred the underlying intent and autonomously invoked external search tools to produce more specific and reliable answers. This experience reshaped my view of language models: not just as text generators, but as bridges between human intent and machine execution.</p>
 
-<p>At SNU's Human-Oriented Language Intelligence Lab, I now study how to make such agents reason and act more intelligently. Through my work <strong>In-N-Out</strong>, I build parameter-level API graphs that teach models how tools depend on one another, enabling more structured and efficient tool use. In my follow-up work <strong>ThinkBrake</strong>, I design mechanisms that detect and halt redundant reasoning, helping small models act decisively without overthinking.</p>
+<p>At SNU's Human-Oriented Language Intelligence Lab, I work on making agents reason and act more intelligently. In <strong>In-N-Out</strong>, I build parameter-level API graphs that capture dependencies between tools, enabling more structured and efficient tool use. In <strong>ThinkBrake</strong>, I design mechanisms that detect and halt redundant reasoning, helping small reasoning models act decisively without overthinking.</p>
 
-<p>Looking forward, I aim to build AI agents that are both <strong>efficient and adaptive</strong>—capable of planning tool calls with minimal reasoning overhead while understanding user intent and preferences in ambiguous contexts. By uniting <strong>structured reasoning</strong> with <strong>personalized behavior</strong>, I hope to advance toward AI systems that not only perform accurately and cost-effectively but also collaborate naturally with people.</p>
+<p>Looking forward, I aim to build agents that are both <strong>efficient and adaptive</strong>—capable of planning tool calls with minimal overhead while understanding user intent and preferences in ambiguous contexts. By combining <strong>structured reasoning</strong> with <strong>personalized behavior</strong>, I hope to advance toward AI systems that perform accurately and cost-effectively while collaborating naturally with people.</p>
 
 
 </div>
@@ -34,7 +34,7 @@ title: Seungkyu Lee
 <ol>
 <li><strong>In-N-Out: A Parameter-Level API Graph Dataset for Tool Agents</strong><br>
    <em><u>Seungkyu Lee</u>, Nalim Kim, Yohan Jo</em><br>
-   <a href="https://arxiv.org/abs/2509.01560" style="text-decoration: underline; color: #000;">[PDF]</a> <i>Transactions of the Association for Computational Linguistics (Accepted under minor revision) </i> <br></li>
+   <a href="https://arxiv.org/abs/2509.01560" style="text-decoration: underline; color: #000;">[PDF]</a> <i>Transactions of the Association for Computational Linguistics </i> <br></li>
 <li><strong>ThinkBrake: Mitigating Overthinking in Tool Reasoning</strong><br>
    <em>Minjae Oh<sup>*</sup>, Sangjun Song<sup>*</sup>, <u>Seungkyu Lee</u><sup>*</sup>, Sungmin Jo, Yohan Jo</em><br>
    <em class="equal-contribution"><sup>*</sup> Equal contribution (co-first authors)</em><br>
