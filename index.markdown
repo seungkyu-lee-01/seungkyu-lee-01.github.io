@@ -6,13 +6,13 @@ title: Seungkyu Lee
 <div class="about-section" id="about">
 <h1>About</h1>
 
-<p>Hi, I'm <strong>Seungkyu Lee</strong>, a senior undergraduate in Industrial Engineering at Seoul National University. I study natural language processing, focusing on <strong>LLM-based agents</strong>, <strong>efficient reasoning</strong>, and <strong>personalized AI systems</strong>.</p>
+<p>Hi, I'm <strong>Seungkyu Lee</strong>, a senior undergraduate student in Industrial Engineering at Seoul National University (SNU). My research focuses on natural language processing, focusing on <strong>reliable, efficient, and personalized AI agents</strong>.</p>
 
-<p>My interest in language agents began while developing an <strong>information-seeking agent for over 10 million users</strong> at an AI startup. When given a user query, the model inferred the underlying intent and autonomously invoked external search tools to produce more specific and reliable answers. This experience reshaped my view of language models: not just as text generators, but as bridges between human intent and machine execution.</p>
+<p>My interest in AI agents began while developing an <strong>information-seeking assistant for over 10 million users</strong> at a Gen-AI startup. When given a user query, the model inferred the underlying intent and autonomously invoked external search tools to produce more specific and reliable answers. This experience reshaped my view of language models: not just as text generators, but as <strong>bridges between human intent and machine execution.</strong></p>
 
 <p>At SNU's Human-Oriented Language Intelligence Lab, I worked on making agents reason and act more intelligently. In my <strong>TACL</strong> paper, I built parameter-level API graphs that capture dependencies between tools, enabling more structured and efficient tool use. In my <strong>NeurIPS</strong> workshop paper, I designed mechanisms that detect and halt redundant reasoning, helping small reasoning models act decisively without overthinking.</p>
 
-<p>Looking forward, I aim to build agents that are both <strong>efficient and adaptive</strong>—capable of planning tool calls with minimal overhead while understanding user intent and preferences in ambiguous contexts. By combining <strong>structured reasoning</strong> with <strong>personalized behavior</strong>, I hope to advance toward AI systems that perform accurately and cost-effectively while collaborating naturally with people.</p>
+<p>Looking forward, I aim to build agents that are both <strong>efficient and adaptive</strong>—capable of planning tool calls with minimal overhead while understanding user intent and preferences in ambiguous contexts. By combining <strong>structured reasoning</strong> with <strong>personalized behavior</strong>, I hope to advance toward AI systems that perform accurately and cost-effectively while collaborating naturally with humans.</p>
 
 
 </div>
