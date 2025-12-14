@@ -20,8 +20,8 @@ title: Seungkyu Lee
 <div class="education-section" id="education">
 <h1>Education</h1>
 
-<h3><strong>Seoul National University (SNU)</strong> <span class="date">Mar. 2019 - Present</span></h3>
-<p><em>B.S. in Industrial Engineering (Expected Feb. 2026)</em></p>
+<h3><strong>Seoul National University (SNU)</strong> <span class="date">Mar. 2019 - Feb. 2026</span></h3>
+<p><em>B.S. in Industrial Engineering</em></p>
 
 <h3><strong>Stony Brook University (SUNY)</strong> <span class="date">Jan. 2024 - May 2024</span></h3>
 <p><em>Exchange Student, Computer Science (Spring 2024)</em></p>
@@ -34,7 +34,7 @@ title: Seungkyu Lee
 <ol>
 <li><strong>In-N-Out: A Parameter-Level API Graph Dataset for Tool Agents</strong><br>
    <em><u>Seungkyu Lee</u>, Nalim Kim, Yohan Jo</em><br>
-   <a href="https://arxiv.org/abs/2509.01560" style="text-decoration: underline; color: #000;">[PDF]</a> <i>Transactions of the Association for Computational Linguistics </i> <br></li>
+   <a href="https://arxiv.org/abs/2509.01560" style="text-decoration: underline; color: #000;">[PDF]</a> <i>Transactions of the Association for Computational Linguistics (To Appear, 2026)</i> <br></li>
 <li><strong>ThinkBrake: Mitigating Overthinking in Tool Reasoning</strong><br>
    <em>Minjae Oh<sup>*</sup>, Sangjun Song<sup>*</sup>, <u>Seungkyu Lee</u><sup>*</sup>, Sungmin Jo, Yohan Jo</em><br>
    <em class="equal-contribution"><sup>*</sup> Equal contribution (co-first authors)</em><br>
@@ -85,7 +85,7 @@ title: Seungkyu Lee
 
 <hr>
 <p><em>"The best way to predict the future is to invent it."</em> - Alan Kay</p>
-<p><em>Last updated: Nov. 2025</em></p>
+<p><em>Last updated: Dec. 2025</em></p>
 
 <style>
 div[class$="-section"] {
