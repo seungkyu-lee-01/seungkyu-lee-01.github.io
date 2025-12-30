@@ -48,7 +48,7 @@ title: Seungkyu Lee
 
 <h2>Research Experience</h2>
 
-<h3><strong>Undergraduate Researcher</strong> @ Human-Oriented Language Intelligence Lab, SNU | Advisor: <a href="https://yohanjo.github.io/" style="text-decoration: underline; color: #006400;"> Yohan Jo</a> <span class="date">Aug. 2024 - Present</span></h3>
+<h3><strong>Undergraduate Researcher</strong> @ Human-Oriented Language Intelligence Lab, SNU | Advisor: <a href="https://yohanjo.github.io/" style="text-decoration: underline; color: #006400;"> Yohan Jo</a> <span class="date">Aug. 2024 - Jan. 2026</span></h3>
 
 <h3><strong>Research Assistant</strong> @ Big Data AI Center, SNU | Advisor: <a href="https://scholar.google.com/citations?user=dEdyEc0AAAAJ&hl=ko" style="text-decoration: underline; color: #006400;"> Sungzoon Cho</a> <span class="date">Jul. 2021 - Aug. 2021</span></h3>
 
