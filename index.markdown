@@ -30,6 +30,13 @@ title: Seungkyu Lee
 <div class="publications-section" id="publications">
 <h1>Publications</h1>
 
+<h3>2026</h3>
+<ol>
+<li><strong>ThinkBrake: A Simple Test-Time Decoding Control for Efficient Reasoning</strong><br>
+   <em>Sangjun Song, Minjae Oh, <u>Seungkyu Lee</u>, Sungmin Jo, Yohan Jo</em><br>
+   <a href="https://arxiv.org/abs/2510.00546" style="text-decoration: underline; color: #000;">[PDF]</a> <i>arXiv Preprint</i><br></li>
+</ol>
+
 <h3>2025</h3>
 <ol>
 <li><strong>In-N-Out: A Parameter-Level API Graph Dataset for Tool Agents</strong><br>
@@ -38,7 +45,7 @@ title: Seungkyu Lee
 <li><strong>ThinkBrake: Mitigating Overthinking in Tool Reasoning</strong><br>
    <em>Minjae Oh<sup>*</sup>, Sangjun Song<sup>*</sup>, <u>Seungkyu Lee</u><sup>*</sup>, Sungmin Jo, Yohan Jo</em><br>
    <em class="equal-contribution"><sup>*</sup> Equal contribution (co-first authors)</em><br>
-   <a href="https://arxiv.org/abs/2510.00546" style="text-decoration: underline; color: #000;">[PDF]</a> <i>NeurIPS 2025 Workshop on Efficient Reasoning</i><br></li>
+   <a href="https://openreview.net/forum?id=L51idMsU6L" style="text-decoration: underline; color: #000;">[PDF]</a> <i>NeurIPS 2025 Workshop on Efficient Reasoning</i><br></li>
 </ol>
 
 </div>
@@ -85,7 +92,7 @@ title: Seungkyu Lee
 
 <hr>
 <p><em>"The best way to predict the future is to invent it."</em> - Alan Kay</p>
-<p><em>Last updated: Dec. 2025</em></p>
+<p><em>Last updated: Jan. 2026</em></p>
 
 <style>
 div[class$="-section"] {
