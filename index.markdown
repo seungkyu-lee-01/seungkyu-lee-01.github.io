@@ -6,7 +6,7 @@ title: Seungkyu Lee
 <div class="about-section" id="about">
 <h1>About</h1>
 
-<p>Hi, I'm <strong>Seungkyu Lee</strong>, a senior undergraduate student in Industrial Engineering at Seoul National University (SNU). My research focuses on natural language processing, focusing on <strong>reliable, efficient, and personalized AI agents</strong>.</p>
+<p>Hi, I'm <strong>Seungkyu Lee</strong>, an incoming Ph.D. student in Computer Science and Engineering at Penn State University (Fall 2026). My research focuses on natural language processing, with an emphasis on <strong>reliable, efficient, and personalized AI agents</strong>.</p>
 
 <p>My interest in AI agents began while developing an <strong>information-seeking assistant for over 10 million users</strong> at a Gen-AI startup. When given a user query, the model inferred the underlying intent and autonomously invoked external search tools to produce more specific and reliable answers. This experience reshaped my view of language models: not just as text generators, but as <strong>bridges between human intent and machine execution.</strong></p>
 
@@ -20,11 +20,14 @@ title: Seungkyu Lee
 <div class="education-section" id="education">
 <h1>Education</h1>
 
-<h3><strong>Seoul National University (SNU)</strong> <span class="date">Mar. 2019 - Feb. 2026</span></h3>
-<p><em>B.S. in Industrial Engineering</em></p>
+<h3><strong>The Pennsylvania State University</strong> <span class="education-location">University Park, PA, United States</span></h3>
+<p><em>Ph.D. Student in Computer Science and Engineering</em> <span class="date">Aug. 2026 - (Expected)</span></p>
 
-<h3><strong>Stony Brook University (SUNY)</strong> <span class="date">Jan. 2024 - May 2024</span></h3>
-<p><em>Exchange Student, Computer Science (Spring 2024)</em></p>
+<h3><strong>Seoul National University (SNU)</strong> <span class="education-location">Seoul, South Korea</span></h3>
+<p><em>B.S. in Industrial Engineering</em> <span class="date">Mar. 2019 - Feb. 2026</span></p>
+
+<h3><strong>Stony Brook University (SUNY)</strong> <span class="education-location">Stony Brook, NY, United States</span></h3>
+<p><em>Exchange Student, Computer Science (Spring 2024)</em> <span class="date">Jan. 2024 - May 2024</span></p>
 </div>
 
 <div class="publications-section" id="publications">
@@ -32,20 +35,20 @@ title: Seungkyu Lee
 
 <h3>2026</h3>
 <ol>
-<li><strong>ThinkBrake: A Simple Test-Time Decoding Control for Efficient Reasoning</strong><br>
+<li><strong>ThinkBrake: A Simple Test-Time Decoding Control for Efficient Reasoning</strong> <a href="https://arxiv.org/abs/2510.00546" class="arxiv-badge" target="_blank" rel="noopener noreferrer">arXiv</a><br>
    <em>Sangjun Song, Minjae Oh, <u>Seungkyu Lee</u>, Sungmin Jo, Yohan Jo</em><br>
-   <a href="https://arxiv.org/abs/2510.00546" style="text-decoration: underline; color: #000;">[PDF]</a> <i>arXiv Preprint</i><br></li>
+   <i>[ACL-Findings] Findings of the Association for Computational Linguistics, 2026</i><br></li>
 </ol>
 
 <h3>2025</h3>
 <ol>
-<li><strong>In-N-Out: A Parameter-Level API Graph Dataset for Tool Agents</strong><br>
+<li><strong>In-N-Out: A Parameter-Level API Graph Dataset for Tool Agents</strong> <a href="https://arxiv.org/abs/2509.01560" class="arxiv-badge" target="_blank" rel="noopener noreferrer">arXiv</a><br>
    <em><u>Seungkyu Lee</u>, Nalim Kim, Yohan Jo</em><br>
-   <a href="https://arxiv.org/abs/2509.01560" style="text-decoration: underline; color: #000;">[PDF]</a> <i>Transactions of the Association for Computational Linguistics (To Appear, 2026)</i> <br></li>
-<li><strong>ThinkBrake: Mitigating Overthinking in Tool Reasoning</strong><br>
+   <i>[TACL] Transactions of the Association for Computational Linguistics, 2026</i> <br></li>
+<li><strong>ThinkBrake: Mitigating Overthinking in Tool Reasoning</strong> <a href="https://openreview.net/forum?id=L51idMsU6L" class="arxiv-badge" target="_blank" rel="noopener noreferrer">PDF</a><br>
    <em>Minjae Oh<sup>*</sup>, Sangjun Song<sup>*</sup>, <u>Seungkyu Lee</u><sup>*</sup>, Sungmin Jo, Yohan Jo</em><br>
    <em class="equal-contribution"><sup>*</sup> Equal contribution (co-first authors)</em><br>
-   <a href="https://openreview.net/forum?id=L51idMsU6L" style="text-decoration: underline; color: #000;">[PDF]</a> <i>NeurIPS 2025 Workshop on Efficient Reasoning</i><br></li>
+   <i>NeurIPS 2025 Workshop on Efficient Reasoning</i><br></li>
 </ol>
 
 </div>
@@ -55,25 +58,25 @@ title: Seungkyu Lee
 
 <h2>Research Experience</h2>
 
-<h3><strong>Undergraduate Researcher</strong> @ Human-Oriented Language Intelligence Lab, SNU | Advisor: <a href="https://yohanjo.github.io/" style="text-decoration: underline; color: #006400;"> Yohan Jo</a> <span class="date">Aug. 2024 - Jan. 2026</span></h3>
+<h3><strong>Undergrad. Researcher</strong><span class="experience-subline-inline"> @ Human-Oriented Language Intelligence Lab | Advisor: <a href="https://yohanjo.github.io/" style="text-decoration: underline; color: #006400;" target="_blank" rel="noopener noreferrer">Yohan Jo</a></span> <span class="date">Aug. 2024 - Jan. 2026</span></h3>
 
-<h3><strong>Research Assistant</strong> @ Big Data AI Center, SNU | Advisor: <a href="https://scholar.google.com/citations?user=dEdyEc0AAAAJ&hl=ko" style="text-decoration: underline; color: #006400;"> Sungzoon Cho</a> <span class="date">Jul. 2021 - Aug. 2021</span></h3>
+<h3><strong>Research Assistant</strong><span class="experience-subline-inline"> @ SNU Big Data AI Center | Advisor: <a href="https://scholar.google.com/citations?user=dEdyEc0AAAAJ&hl=ko" style="text-decoration: underline; color: #006400;" target="_blank" rel="noopener noreferrer">Sungzoon Cho</a></span> <span class="date">Jul. 2021 - Aug. 2021</span></h3>
 
 <h2>Professional Experience</h2>
 
-<h3><strong>Software Engineer Intern</strong> @ SAP Labs Korea <span class="date">Jul. 2025 - Present</span></h3>
+<h3><strong>Software Engineer Intern</strong><span class="experience-subline-inline"> @ SAP Labs Korea</span> <span class="date">Jul. 2025 - Jul. 2026</span></h3>
 
-<h3><strong>Machine Learning Engineer</strong> @ Liner <span class="date">Nov. 2022 - Jan. 2024</span></h3>
+<h3><strong>Machine Learning Engineer</strong><span class="experience-subline-inline"> @ Liner</span> <span class="date">Nov. 2022 - Jan. 2024</span></h3>
 
-<h3><strong>Data Analyst</strong> @ Nudge Healthcare (CashWalk) <span class="date">Jan. 2022 - Nov. 2022</span></h3>
+<h3><strong>Data Analyst</strong><span class="experience-subline-inline"> @ Nudge Healthcare (CashWalk)</span> <span class="date">Jan. 2022 - Nov. 2022</span></h3>
 
 <h2>Teaching Experience</h2>
 
 <h3><strong>Undergraduate Teaching Assistant (Tutor)</strong></h3>
 <ol>
-<li><span class="course-name">Scientific Management</span>, Dept. of Industrial Engineering, SNU <span class="date">Mar. 2025 - Aug. 2025</span></li>
-<li><span class="course-name">Data Structures</span>, Innovative Shared Curriculum (Big Data), SNU <span class="date">Jun. 2024 - Jul. 2024</span></li>
-<li><span class="course-name">Elementary Korean I</span>, Center for Korean Studies, Stony Brook University <span class="date">Jan. 2024 - May 2024</span></li>
+<li><span class="course-name">Scientific Management</span><span class="teaching-subline">, Dept. of Industrial Engineering, SNU</span> <span class="date">Mar. 2025 - Aug. 2025</span></li>
+<li><span class="course-name">Data Structures</span><span class="teaching-subline">, Innovative Shared Curriculum (Big Data), SNU</span> <span class="date">Jun. 2024 - Jul. 2024</span></li>
+<li><span class="course-name">Elementary Korean I</span><span class="teaching-subline">, Center for Korean Studies, Stony Brook University</span> <span class="date">Jan. 2024 - May 2024</span></li>
 </ol>
 
 </div>
@@ -82,17 +85,17 @@ title: Seungkyu Lee
 <div class="awards-section" id="awards">
 <h1>Awards</h1>
 
-<h3><strong>HopperHackers 2024 - Best Beginner Hack (1st Place)</strong> <span class="date">Feb. 2024</span></h3>
-<p><em>SUNY Stony Brook Hackathon</em></p>
+<h3><strong>HopperHackers 2024 - Best Beginner Hack (1st Place)</strong></h3>
+<p><em>SUNY Stony Brook Hackathon <span class="date">Feb. 2024</span></em></p>
 
-<h3><strong>The 13th Lee Joonghan Award, Leadership Sector</strong> <span class="date">Dec. 2021</span></h3>
-<p><em>Dept. of Industrial Engineering, Seoul National University</em></p>
+<h3><strong>The 13th Lee Joonghan Award, Leadership Sector</strong></h3>
+<p><em>Dept. of Industrial Engineering, Seoul National University <span class="date">Dec. 2021</span></em></p>
 
 </div>
 
 <hr>
 <p><em>"The best way to predict the future is to invent it."</em> - Alan Kay</p>
-<p><em>Last updated: Jan. 2026</em></p>
+<p><em>Last updated: Apr. 2026</em></p>
 
 <style>
 div[class$="-section"] {
@@ -274,6 +277,19 @@ body.dark .experience-section a {
   margin-bottom: 1.5rem;
 }
 
+.experience-section .experience-subline {
+  margin-top: 0.3rem;
+  margin-bottom: 1.0rem;
+  font-size: 0.95em;
+  font-weight: 400;
+  overflow: hidden;
+}
+
+.experience-section .experience-subline-inline {
+  font-size: 0.95em;
+  font-weight: 400;
+}
+
 /* Education section font size and styling - same as Experience */
 .education-section {
   font-size: 16px;
@@ -297,6 +313,23 @@ body.dark .experience-section a {
   line-height: 1.6;
   margin-top: 0.5rem;
   margin-bottom: 1.5rem;
+  overflow: hidden;
+}
+
+body:not(.dark) .education-section .education-location {
+  color: #2c3e50;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 0.9em;
+  float: right;
+}
+
+body.dark .education-section .education-location {
+  color: #e8e8e8;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 0.9em;
+  float: right;
 }
 
 /* Awards section font size and styling - same as Experience and Education */
@@ -334,6 +367,16 @@ body:not(.dark) .awards-section p em {
   font-size: 0.95em;
 }
 
+body:not(.dark) .experience-section .experience-subline {
+  color: #777;
+}
+
+body:not(.dark) .experience-section .experience-subline-inline,
+body:not(.dark) .experience-section .teaching-subline {
+  color: #777;
+  font-size: 0.95em;
+}
+
 /* Styling for job titles/majors/organizations under institution names - Dark Mode */
 body.dark .experience-section p em,
 body.dark .education-section p em,
@@ -342,6 +385,22 @@ body.dark .awards-section p em {
   font-style: normal;
   font-weight: 400;
   font-size: 0.95em;
+}
+
+body.dark .experience-section .experience-subline {
+  color: #bbb;
+}
+
+body.dark .experience-section .experience-subline-inline,
+body.dark .experience-section .teaching-subline {
+  color: #bbb;
+  font-size: 0.95em;
+}
+
+/* Teaching Experience: secondary line matches Research/Professional subline size */
+.experience-section .teaching-subline {
+  font-size: 0.95em;
+  font-weight: 400;
 }
 
 /* Section specific styling - Light Mode */
@@ -418,6 +477,37 @@ li {
   margin-bottom: 1.2rem;
 }
 
+/* Compact arXiv badge beside publication title */
+.arxiv-badge {
+  display: inline-block;
+  font-size: 0.72em;
+  font-weight: 600;
+  line-height: 1;
+  padding: 0.18rem 0.42rem;
+  border-radius: 0.25rem;
+  border: 1px solid #bdbdbd;
+  background: #f5f5f5;
+  color: #333 !important;
+  text-decoration: none !important;
+  vertical-align: middle;
+}
+
+body:not(.dark) .arxiv-badge:hover {
+  background: #ececec;
+  border-color: #9a9a9a;
+}
+
+body.dark .arxiv-badge {
+  background: #2d2d2d;
+  border-color: #5c5c5c;
+  color: #f1f1f1 !important;
+}
+
+body.dark .arxiv-badge:hover {
+  background: #3a3a3a;
+  border-color: #7a7a7a;
+}
+
 /* Emphasis styling for template fields - Light Mode */
 body:not(.dark) strong {
   color: #333;
@@ -460,13 +550,11 @@ body.dark .course-name {
 
 /* Teaching Experience list styling - Light Mode */
 body:not(.dark) .experience-section ol li {
-  color: #666;
   font-weight: 400;
 }
 
 /* Teaching Experience list styling - Dark Mode */
 body.dark .experience-section ol li {
-  color: #ddd;
   font-weight: 400;
 }
 
@@ -495,12 +583,14 @@ body.dark .experience-section ol li {
 
 /* Light mode numbering color */
 body:not(.dark) .experience-section ol li::before {
-  color: #666;
+  color: #777;
+  font-size: 0.95em;
 }
 
 /* Dark mode numbering color */
 body.dark .experience-section ol li::before {
-  color: #ddd;
+  color: #bbb;
+  font-size: 0.95em;
 }
 
 /* Experience subsection spacing */
