@@ -89,6 +89,13 @@ main {
     @media screen and (min-width: $mobileW + 1) {
       position: fixed;
       max-width: 280px;
+      /* Keep a consistent lower starting point like laptop screenshot */
+      justify-content: flex-start;
+      padding-top: clamp(56px, 12vh, 140px);
+      padding-bottom: 32px;
+      max-height: 100dvh;
+      overflow-y: auto;
+      overscroll-behavior: contain;
     }
     min-width: $leftWidth;
     justify-content: center;
@@ -124,21 +131,6 @@ main {
         align-items: center;
         margin-bottom: 17px;
       }
-    }
-  }
-}
-
-/* Keep left profile panel visible on shorter laptop displays */
-@media screen and (min-width: $mobileW + 1) and (max-height: 900px) {
-  main {
-    .about {
-      height: 100dvh;
-      max-height: 100dvh;
-      padding-top: 20px;
-      padding-bottom: 20px;
-      justify-content: flex-start;
-      overflow-y: auto;
-      overscroll-behavior: contain;
     }
   }
 }
