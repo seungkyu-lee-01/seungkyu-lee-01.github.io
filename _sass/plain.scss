@@ -127,6 +127,22 @@ main {
     }
   }
 }
+
+/* Keep left profile panel visible on shorter laptop displays */
+@media screen and (min-width: $mobileW + 1) and (max-height: 900px) {
+  main {
+    .about {
+      height: 100dvh;
+      max-height: 100dvh;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      justify-content: flex-start;
+      overflow-y: auto;
+      overscroll-behavior: contain;
+    }
+  }
+}
+
 #title {
   a {
     text-decoration: none;
