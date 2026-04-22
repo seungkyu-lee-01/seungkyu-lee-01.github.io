@@ -35,7 +35,7 @@ title: Seungkyu Lee
 
 <h3>2026</h3>
 <ol>
-<li><strong>ThinkBrake: A Simple Test-Time Decoding Control for Efficient Reasoning</strong> <a href="https://arxiv.org/abs/2510.00546" class="arxiv-badge" target="_blank" rel="noopener noreferrer">arXiv</a><br>
+<li><strong>ThinkBrake: Efficient Reasoning via Log-Probability Margin Guided Decoding</strong> <a href="https://arxiv.org/abs/2510.00546" class="arxiv-badge" target="_blank" rel="noopener noreferrer">arXiv</a><br>
    <em>Sangjun Song, Minjae Oh, <u>Seungkyu Lee</u>, Sungmin Jo, Yohan Jo</em><br>
    <i>[ACL-Findings] Findings of the Association for Computational Linguistics, 2026</i><br></li>
 </ol>
