@@ -308,7 +308,24 @@ footer {
   display: none;
 }
 @media screen and (max-width: $mobileW) {
+  body {
+    font-size: 15px;
+    line-height: 1.5;
+  }
+
+  .post-title {
+    font-size: 24px;
+  }
+
+  .post {
+    font-size: 0.95rem;
+  }
+
   .about {
+    h2 {
+      font-size: 20px;
+    }
+
     .about-header.condensed {
       align-items: start;
       align-self: start;
@@ -323,7 +340,7 @@ footer {
         }
       }
       .tagline {
-        font-size: 18px;
+        font-size: 17px;
         margin-bottom: 0px;
       }
     }
