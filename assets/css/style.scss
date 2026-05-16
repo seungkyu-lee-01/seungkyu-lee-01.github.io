@@ -12,6 +12,11 @@
   @import "dark";
 {%- endif -%}
 
+/* Render the site at 90% scale in Chrome (keeps visual ratios) */
+html {
+  zoom: 90%;
+}
+
 /* Custom color overrides for light mode */
 body:not(.dark) #title a {
   color: #000 !important;
