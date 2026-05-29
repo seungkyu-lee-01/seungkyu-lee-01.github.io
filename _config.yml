@@ -26,14 +26,12 @@ plainwhite:
   navigation:
     - title: About
       url: "#about"
-    - title: Education
-      url: "#education"
     - title: Publications
       url: "#publications"
+    - title: Education
+      url: "#education"
     - title: Experience
       url: "#experience"
-    - title: Awards
-      url: "#awards"
   
   # Social links (add your actual links)
   social_links:

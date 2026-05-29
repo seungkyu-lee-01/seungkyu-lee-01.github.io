@@ -14,19 +14,6 @@ title: Seungkyu Lee
 
 </div>
 
-<div class="education-section" id="education">
-<h1>Education</h1>
-
-<h3><strong>The Pennsylvania State University</strong> <span class="education-location">University Park, PA, United States</span></h3>
-<p><em>Ph.D. Student in Computer Science and Engineering</em> <span class="date">Aug. 2026 - (Expected)</span></p>
-
-<h3><strong>Seoul National University (SNU)</strong> <span class="education-location">Seoul, South Korea</span></h3>
-<p><em>B.S. in Industrial Engineering</em> <span class="date">Mar. 2019 - Feb. 2026</span></p>
-
-<h3><strong>Stony Brook University (SUNY)</strong> <span class="education-location">Stony Brook, NY, United States</span></h3>
-<p><em>Exchange Student, Computer Science (Spring 2024)</em> <span class="date">Jan. 2024 - May 2024</span></p>
-</div>
-
 <div class="publications-section" id="publications">
 <h1>Publications</h1>
 
@@ -48,6 +35,19 @@ title: Seungkyu Lee
    <i>NeurIPS 2025 Workshop on Efficient Reasoning</i><br></li>
 </ol>
 
+</div>
+
+<div class="education-section" id="education">
+<h1>Education</h1>
+
+<h3><strong>The Pennsylvania State University</strong> <span class="education-location">University Park, PA, United States</span></h3>
+<p><em>Ph.D. Student in Computer Science and Engineering</em> <span class="date">Aug. 2026 - (Expected)</span></p>
+
+<h3><strong>Seoul National University (SNU)</strong> <span class="education-location">Seoul, South Korea</span></h3>
+<p><em>B.S. in Industrial Engineering</em> <span class="date">Mar. 2019 - Feb. 2026</span></p>
+
+<h3><strong>Stony Brook University (SUNY)</strong> <span class="education-location">Stony Brook, NY, United States</span></h3>
+<p><em>Exchange Student, Computer Science (Spring 2024)</em> <span class="date">Jan. 2024 - May 2024</span></p>
 </div>
 
 <div class="experience-section" id="experience">
@@ -75,18 +75,6 @@ title: Seungkyu Lee
 <li><span class="course-name">Data Structures</span><span class="teaching-subline">, Innovative Shared Curriculum (Big Data), SNU</span> <span class="date">Jun. 2024 - Jul. 2024</span></li>
 <li><span class="course-name">Elementary Korean I</span><span class="teaching-subline">, Center for Korean Studies, Stony Brook University</span> <span class="date">Jan. 2024 - May 2024</span></li>
 </ol>
-
-</div>
-
-
-<div class="awards-section" id="awards">
-<h1>Awards</h1>
-
-<h3><strong>HopperHackers 2024 - Best Beginner Hack (1st Place)</strong></h3>
-<p><em>SUNY Stony Brook Hackathon <span class="date">Feb. 2024</span></em></p>
-
-<h3><strong>The 13th Lee Joonghan Award, Leadership Sector</strong></h3>
-<p><em>Dept. of Industrial Engineering, Seoul National University <span class="date">Dec. 2021</span></em></p>
 
 </div>
 
@@ -129,8 +117,7 @@ body.dark em {
 /* Special styling for experience/education descriptions - Light Mode */
 body:not(.dark) .experience-section li em,
 body:not(.dark) .education-section li em,
-body:not(.dark) .publications-section em,
-body:not(.dark) .awards-section em {
+body:not(.dark) .publications-section em {
   color: #2c3e50;
   font-style: normal;
   font-weight: 400;
@@ -139,8 +126,7 @@ body:not(.dark) .awards-section em {
 /* Special styling for experience/education descriptions - Dark Mode */
 body.dark .experience-section li em,
 body.dark .education-section li em,
-body.dark .publications-section em,
-body.dark .awards-section em {
+body.dark .publications-section em {
   color: #e8e8e8;
   font-style: normal;
   font-weight: 400;
@@ -148,8 +134,7 @@ body.dark .awards-section em {
 
 /* Styling for dates - Light Mode */
 body:not(.dark) .experience-section .date,
-body:not(.dark) .education-section .date,
-body:not(.dark) .awards-section .date {
+body:not(.dark) .education-section .date {
   color: #666;
   font-style: normal;
   font-weight: 300;
@@ -159,8 +144,7 @@ body:not(.dark) .awards-section .date {
 
 /* Styling for dates - Dark Mode */
 body.dark .experience-section .date,
-body.dark .education-section .date,
-body.dark .awards-section .date {
+body.dark .education-section .date {
   color: #aaa;
   font-style: normal;
   font-weight: 300;
@@ -170,8 +154,7 @@ body.dark .awards-section .date {
 
 /* Clear float for proper layout */
 .experience-section h3,
-.education-section h3,
-.awards-section h3 {
+.education-section h3 {
   overflow: hidden;
 }
 
@@ -196,16 +179,6 @@ body.dark .awards-section .date {
 .education-section strong,
 .education-section a,
 .education-section .date {
-  font-family: "Merriweather", serif !important;
-}
-
-/* Awards section font styling - same as Experience and Education */
-.awards-section h3,
-.awards-section p,
-.awards-section em,
-.awards-section strong,
-.awards-section a,
-.awards-section .date {
   font-family: "Merriweather", serif !important;
 }
 
@@ -329,35 +302,9 @@ body.dark .education-section .education-location {
   float: right;
 }
 
-/* Awards section font size and styling - same as Experience and Education */
-.awards-section {
-  font-size: 16px;
-  line-height: 1.7;
-}
-
-.awards-section h3 {
-  font-size: 16px;
-  line-height: 1.6;
-  font-weight: 400;
-  margin-bottom: 0.8rem;
-}
-
-.awards-section h3 strong {
-  font-weight: 600;
-  color: inherit;
-}
-
-.awards-section p {
-  font-size: 16px;
-  line-height: 1.6;
-  margin-top: 0.5rem;
-  margin-bottom: 1.5rem;
-}
-
 /* Styling for job titles/majors/organizations under institution names - Light Mode */
 body:not(.dark) .experience-section p em,
-body:not(.dark) .education-section p em,
-body:not(.dark) .awards-section p em {
+body:not(.dark) .education-section p em {
   color: #777;
   font-style: normal;
   font-weight: 400;
@@ -376,8 +323,7 @@ body:not(.dark) .experience-section .teaching-subline {
 
 /* Styling for job titles/majors/organizations under institution names - Dark Mode */
 body.dark .experience-section p em,
-body.dark .education-section p em,
-body.dark .awards-section p em {
+body.dark .education-section p em {
   color: #bbb;
   font-style: normal;
   font-weight: 400;
