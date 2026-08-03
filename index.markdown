@@ -40,8 +40,8 @@ title: Seungkyu Lee
 <div class="education-section" id="education">
 <h1>Education</h1>
 
-<h3><strong>The Pennsylvania State University</strong> <span class="education-location">University Park, PA, United States</span></h3>
-<p><em>Ph.D. Student in Computer Science and Engineering</em> <span class="date">Aug. 2026 - (Expected)</span></p>
+<h3><strong>Penn State University</strong> <span class="education-location">University Park, PA, United States</span></h3>
+<p><em>Ph.D. Student in Computer Science and Engineering</em> <span class="date">Aug. 2026 - May 2031</span></p>
 
 <h3><strong>Seoul National University (SNU)</strong> <span class="education-location">Seoul, South Korea</span></h3>
 <p><em>B.S. in Industrial Engineering</em> <span class="date">Mar. 2019 - Feb. 2026</span></p>
