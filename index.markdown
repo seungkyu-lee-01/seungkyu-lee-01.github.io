@@ -19,12 +19,12 @@ title: Seungkyu Lee
 
 <h3>2026</h3>
 <ol>
+<li><strong>ThinkBrake: Efficient Reasoning via Log-Probability Margin Guided Decoding</strong> <a href="https://aclanthology.org/2026.findings-acl.1095/" class="arxiv-badge" target="_blank" rel="noopener noreferrer">PDF</a><br>
+   <em>Minjae Oh<sup>*</sup>, Sangjun Song<sup>*</sup>, <u>Seungkyu Lee</u>, Sungmin Jo, Yohan Jo</em><br>
+   <i>[ACL-Findings] Findings of the Association for Computational Linguistics, 2026</i><br></li>
 <li><strong>In-N-Out: A Parameter-Level API Graph Dataset for Tool Agents</strong> <a href="https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.694/137191" class="arxiv-badge" target="_blank" rel="noopener noreferrer">PDF</a><br>
    <em><u>Seungkyu Lee</u>, Nalim Kim, Yohan Jo</em><br>
    <i>[TACL] Transactions of the Association for Computational Linguistics, 2026</i> <br></li>
-<li><strong>ThinkBrake: Efficient Reasoning via Log-Probability Margin Guided Decoding</strong> <a href="https://aclanthology.org/2026.findings-acl.1095/" class="arxiv-badge" target="_blank" rel="noopener noreferrer">PDF</a><br>
-   <em>Sangjun Song, Minjae Oh, <u>Seungkyu Lee</u>, Sungmin Jo, Yohan Jo</em><br>
-   <i>[ACL-Findings] Findings of the Association for Computational Linguistics, 2026</i><br></li>
 </ol>
 
 <h3>2025</h3>
