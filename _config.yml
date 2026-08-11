@@ -3,14 +3,14 @@
 title: Seungkyu Lee
 email: iseunggyu0@gmail.com
 description: >- 
-  Seungkyu Lee - NLP Researcher
+  Seungkyu Lee - AI Researcher
 baseurl: "" 
 url: "https://seungkyu-lee-01.github.io"
 
 # Plainwhite theme settings
 plainwhite:
   name: Seungkyu Lee
-  tagline: NLP Researcher
+  tagline: AI Researcher
   date_format: "%b %-d, %Y"
   
   # Site features
@@ -35,7 +35,7 @@ plainwhite:
   
   # Social links (add your actual links)
   social_links:
-    github: seungkyu-lee-01
+    google_scholar: "https://scholar.google.com/citations?user=p0l0ik8AAAAJ"
     email: iseunggyu0@gmail.com
     linkedIn: in/seungkyulee
 
