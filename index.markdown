@@ -19,12 +19,12 @@ title: Seungkyu Lee
 
 <h3>2026</h3>
 <ol>
+<li><strong>In-N-Out: A Parameter-Level API Graph Dataset for Tool Agents</strong> <a href="https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.694/137191" class="arxiv-badge" target="_blank" rel="noopener noreferrer">PDF</a><br>
+   <em><u>Seungkyu Lee</u>, Nalim Kim, Yohan Jo</em><br>
+   <i>[TACL] Transactions of the Association for Computational Linguistics, 2026 (Oral Presentation @ ACL 2026)</i> <br></li>
 <li><strong>ThinkBrake: Efficient Reasoning via Log-Probability Margin Guided Decoding</strong> <a href="https://aclanthology.org/2026.findings-acl.1095/" class="arxiv-badge" target="_blank" rel="noopener noreferrer">PDF</a><br>
    <em>Minjae Oh<sup>*</sup>, Sangjun Song<sup>*</sup>, <u>Seungkyu Lee</u>, Sungmin Jo, Yohan Jo</em><br>
    <i>[ACL-Findings] Findings of the Association for Computational Linguistics, 2026</i><br></li>
-<li><strong>In-N-Out: A Parameter-Level API Graph Dataset for Tool Agents</strong> <a href="https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.694/137191" class="arxiv-badge" target="_blank" rel="noopener noreferrer">PDF</a><br>
-   <em><u>Seungkyu Lee</u>, Nalim Kim, Yohan Jo</em><br>
-   <i>[TACL] Transactions of the Association for Computational Linguistics, 2026</i> <br></li>
 </ol>
 
 <h3>2025</h3>
@@ -40,8 +40,8 @@ title: Seungkyu Lee
 <div class="education-section" id="education">
 <h1>Education</h1>
 
-<h3><strong>Penn State University</strong> <span class="education-location">University Park, PA, United States</span></h3>
-<p><em>Ph.D. Student in Computer Science and Engineering</em> <span class="date">Aug. 2026 - May 2031</span></p>
+<h3><strong>The Pennsylvania State University</strong> <span class="education-location">University Park, PA, United States</span></h3>
+<p><em>Ph.D. Student in Computer Science and Engineering | Advisor: <a href="https://www.wenpengyin.org/home" style="text-decoration: underline;" target="_blank" rel="noopener noreferrer">Wenpeng Yin</a> </em> <span class="date">Aug. 2026 - May 2031</span></p>
 
 <h3><strong>Seoul National University (SNU)</strong> <span class="education-location">Seoul, South Korea</span></h3>
 <p><em>B.S. in Industrial Engineering</em> <span class="date">Mar. 2019 - Feb. 2026</span></p>
@@ -55,9 +55,9 @@ title: Seungkyu Lee
 
 <h2>Research Experience</h2>
 
-<h3><strong>Undergrad. Researcher</strong><span class="experience-subline-inline"> @ Human-Oriented Language Intelligence Lab | Advisor: <a href="https://yohanjo.github.io/" style="text-decoration: underline; color: #006400;" target="_blank" rel="noopener noreferrer">Yohan Jo</a></span> <span class="date">Aug. 2024 - Jan. 2026</span></h3>
+<h3><strong>Undergrad. Researcher</strong><span class="experience-subline-inline"> @ Human-Oriented Language Intelligence Lab | Advisor: <a href="https://yohanjo.github.io/" style="text-decoration: underline;" target="_blank" rel="noopener noreferrer">Yohan Jo</a></span> <span class="date">Aug. 2024 - Jan. 2026</span></h3>
 
-<h3><strong>Research Assistant</strong><span class="experience-subline-inline"> @ SNU Big Data AI Center | Advisor: <a href="https://scholar.google.com/citations?user=dEdyEc0AAAAJ&hl=ko" style="text-decoration: underline; color: #006400;" target="_blank" rel="noopener noreferrer">Sungzoon Cho</a></span> <span class="date">Jul. 2021 - Aug. 2021</span></h3>
+<h3><strong>Research Assistant</strong><span class="experience-subline-inline"> @ SNU Big Data AI Center | Advisor: <a href="https://scholar.google.com/citations?user=dEdyEc0AAAAJ&hl=ko" style="text-decoration: underline;" target="_blank" rel="noopener noreferrer">Sungzoon Cho</a></span> <span class="date">Jul. 2021 - Aug. 2021</span></h3>
 
 <h2>Professional Experience</h2>
 
@@ -67,14 +67,14 @@ title: Seungkyu Lee
 
 <h3><strong>Data Analyst</strong><span class="experience-subline-inline"> @ Nudge Healthcare (CashWalk)</span> <span class="date">Jan. 2022 - Nov. 2022</span></h3>
 
-<h2>Teaching Experience</h2>
+<!-- <h2>Teaching Experience</h2>
 
 <h3><strong>Undergraduate Teaching Assistant (Tutor)</strong></h3>
 <ol>
 <li><span class="course-name">Scientific Management</span><span class="teaching-subline">, Dept. of Industrial Engineering, SNU</span> <span class="date">Mar. 2025 - Aug. 2025</span></li>
 <li><span class="course-name">Data Structures</span><span class="teaching-subline">, Innovative Shared Curriculum (Big Data), SNU</span> <span class="date">Jun. 2024 - Jul. 2024</span></li>
 <li><span class="course-name">Elementary Korean I</span><span class="teaching-subline">, Center for Korean Studies, Stony Brook University</span> <span class="date">Jan. 2024 - May 2024</span></li>
-</ol>
+</ol> -->
 
 </div>
 
