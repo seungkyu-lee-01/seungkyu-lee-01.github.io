@@ -6,7 +6,7 @@ title: Seungkyu Lee
 <div class="about-section" id="about">
 <h1>About</h1>
 
-<p>Hi, I'm Seungkyu Lee, an incoming Ph.D. student in Computer Science and Engineering at Penn State University.</p>
+<p>I'm a Ph.D. student in Computer Science and Engineering at Penn State University, advised by Prof. <a href="https://www.wenpengyin.org/home" style="text-decoration: underline;" target="_blank" rel="noopener noreferrer">Wenpeng Yin</a>.</p>
 
 <p>My research interests include <strong>how agents can understand user intent clearly, reason with minimal overhead, and act adaptively in ambiguous situations.</strong> My goal is to develop AI systems that combine structured reasoning with personalized behavior, enabling accurate and cost-effective collaboration with humans.</p>
 
