@@ -67,14 +67,12 @@ title: Seungkyu Lee
 
 <h3><strong>Data Analyst</strong><span class="experience-subline-inline"> @ Nudge Healthcare (CashWalk)</span> <span class="date">Jan. 2022 - Nov. 2022</span></h3>
 
-<!-- <h2>Teaching Experience</h2>
+<h2>Teaching Experience</h2>
 
-<h3><strong>Undergraduate Teaching Assistant (Tutor)</strong></h3>
+<h3><strong>Graduate Teaching Assistant</strong></h3>
 <ol>
-<li><span class="course-name">Scientific Management</span><span class="teaching-subline">, Dept. of Industrial Engineering, SNU</span> <span class="date">Mar. 2025 - Aug. 2025</span></li>
-<li><span class="course-name">Data Structures</span><span class="teaching-subline">, Innovative Shared Curriculum (Big Data), SNU</span> <span class="date">Jun. 2024 - Jul. 2024</span></li>
-<li><span class="course-name">Elementary Korean I</span><span class="teaching-subline">, Center for Korean Studies, Stony Brook University</span> <span class="date">Jan. 2024 - May 2024</span></li>
-</ol> -->
+<li><span class="course-name">CMPSC 448: Machine Learning and Algorithmic AI</span><span class="teaching-subline"> @ Penn State University</span> <span class="date">Aug. 2026 - Dec. 2026</span></li>
+</ol>
 
 </div>
 
