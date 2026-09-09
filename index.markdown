@@ -41,7 +41,7 @@ title: Seungkyu Lee
 <h1>Education</h1>
 
 <h3><strong>The Pennsylvania State University</strong> <span class="education-location">University Park, PA, United States</span></h3>
-<p><em>Ph.D. Student in Computer Science and Engineering | Advisor: <a href="https://www.wenpengyin.org/home" style="text-decoration: underline;" target="_blank" rel="noopener noreferrer">Wenpeng Yin</a> </em> <span class="date">Aug. 2026 - May 2031</span></p>
+<p><em>Ph.D. Student in Computer Science and Engineering | Advisor: <a href="https://www.wenpengyin.org/home" style="text-decoration: underline;" target="_blank" rel="noopener noreferrer">Wenpeng Yin</a> </em> <span class="date">Aug. 2026 - Present</span></p>
 
 <h3><strong>Seoul National University (SNU)</strong> <span class="education-location">Seoul, South Korea</span></h3>
 <p><em>B.S. in Industrial Engineering</em> <span class="date">Mar. 2019 - Feb. 2026</span></p>
