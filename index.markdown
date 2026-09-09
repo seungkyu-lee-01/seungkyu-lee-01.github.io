@@ -53,20 +53,6 @@ title: Seungkyu Lee
 <div class="experience-section" id="experience">
 <h1>Experience</h1>
 
-<h2>Research Experience</h2>
-
-<h3><strong>Undergrad. Researcher</strong><span class="experience-subline-inline"> @ Human-Oriented Language Intelligence Lab | Advisor: <a href="https://yohanjo.github.io/" style="text-decoration: underline;" target="_blank" rel="noopener noreferrer">Yohan Jo</a></span> <span class="date">Aug. 2024 - Jan. 2026</span></h3>
-
-<h3><strong>Research Assistant</strong><span class="experience-subline-inline"> @ SNU Big Data AI Center | Advisor: <a href="https://scholar.google.com/citations?user=dEdyEc0AAAAJ&hl=ko" style="text-decoration: underline;" target="_blank" rel="noopener noreferrer">Sungzoon Cho</a></span> <span class="date">Jul. 2021 - Aug. 2021</span></h3>
-
-<h2>Professional Experience</h2>
-
-<h3><strong>Software Engineer Intern</strong><span class="experience-subline-inline"> @ SAP Labs Korea</span> <span class="date">Jul. 2025 - Jul. 2026</span></h3>
-
-<h3><strong>Machine Learning Engineer</strong><span class="experience-subline-inline"> @ Liner</span> <span class="date">Nov. 2022 - Jan. 2024</span></h3>
-
-<h3><strong>Data Analyst</strong><span class="experience-subline-inline"> @ Nudge Healthcare (CashWalk)</span> <span class="date">Jan. 2022 - Nov. 2022</span></h3>
-
 <h2>Teaching Experience</h2>
 
 <h3><strong>Graduate Teaching Assistant</strong></h3>
@@ -74,11 +60,25 @@ title: Seungkyu Lee
 <li><span class="course-name">CMPSC 448: Machine Learning and Algorithmic AI</span><span class="teaching-subline"> @ Penn State University</span> <span class="date">Aug. 2026 - Dec. 2026</span></li>
 </ol>
 
+<h2>Research Experience</h2>
+
+<h3><strong>Undergrad. Researcher</strong><span class="experience-subline-inline"> @ Human-Oriented Language Intelligence Lab | Advisor: <a href="https://yohanjo.github.io/" style="text-decoration: underline;" target="_blank" rel="noopener noreferrer">Yohan Jo</a></span> <span class="date">Aug. 2024 - Jan. 2026</span></h3>
+
+<h3><strong>Research Assistant</strong><span class="experience-subline-inline"> @ SNU Big Data AI Center | Advisor: <a href="https://scholar.google.com/citations?user=dEdyEc0AAAAJ&hl=ko" style="text-decoration: underline;" target="_blank" rel="noopener noreferrer">Sungzoon Cho</a></span> <span class="date">Jul. 2021 - Aug. 2021</span></h3>
+
+<h2>Work Experience</h2>
+
+<h3><strong>Software Engineer Intern</strong><span class="experience-subline-inline"> @ SAP Labs Korea</span> <span class="date">Jul. 2025 - Jul. 2026</span></h3>
+
+<h3><strong>Machine Learning Engineer</strong><span class="experience-subline-inline"> @ Liner</span> <span class="date">Nov. 2022 - Jan. 2024</span></h3>
+
+<h3><strong>Data Analyst</strong><span class="experience-subline-inline"> @ Nudge Healthcare (CashWalk)</span> <span class="date">Jan. 2022 - Nov. 2022</span></h3>
+
 </div>
 
 <hr>
 <p><em>"The best way to predict the future is to invent it."</em> - Alan Kay</p>
-<p><em>Last updated: Aug. 2026</em></p>
+<p><em>Last updated: Sep. 2026</em></p>
 
 <style>
 div[class$="-section"] {
