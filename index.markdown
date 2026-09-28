@@ -19,7 +19,7 @@ title: Seungkyu Lee
 
 <h3>2026</h3>
 <ol>
-<li><strong>In-N-Out: A Parameter-Level API Graph Dataset for Tool Agents</strong> <a href="https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.694/137191" class="arxiv-badge" target="_blank" rel="noopener noreferrer">PDF</a><br>
+<li><strong>In-N-Out: A Parameter-Level API Graph Dataset for Tool Agents</strong> <a href="https://aclanthology.org/2026.tacl-1.45/" class="arxiv-badge" target="_blank" rel="noopener noreferrer">PDF</a><br>
    <em><u>Seungkyu Lee</u>, Nalim Kim, Yohan Jo</em><br>
    <i>[TACL] Transactions of the Association for Computational Linguistics, 2026 (Oral Presentation @ ACL 2026)</i> <br></li>
 <li><strong>ThinkBrake: Efficient Reasoning via Log-Probability Margin Guided Decoding</strong> <a href="https://aclanthology.org/2026.findings-acl.1095/" class="arxiv-badge" target="_blank" rel="noopener noreferrer">PDF</a><br>
