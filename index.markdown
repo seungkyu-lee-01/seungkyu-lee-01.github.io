@@ -8,7 +8,7 @@ title: Seungkyu Lee
 
 <p>I'm a Ph.D. student in Computer Science and Engineering at Penn State University, advised by Prof. <a href="https://www.wenpengyin.org/home" style="text-decoration: underline;" target="_blank" rel="noopener noreferrer">Wenpeng Yin</a>.</p>
 
-<p>My research interests include <strong>how agents can understand user intent clearly, reason with minimal overhead, and act adaptively in ambiguous situations.</strong> My goal is to develop AI systems that combine structured reasoning with personalized behavior, enabling accurate and cost-effective collaboration with humans.</p>
+<p>My research interests include <strong>how language models can understand user intent clearly, reason with minimal overhead, and act adaptively in ambiguous situations.</strong> My goal is to develop AI systems that combine efficient reasoning with personalized behavior, enabling accurate and cost-effective collaboration with humans.</p>
 
 <p>For more details, please refer to my <a href="assets/CV_Seungkyu_Lee.pdf" target="_blank" rel="noopener noreferrer"><strong><u>CV</u></strong></a>.</p>
 
@@ -77,8 +77,7 @@ title: Seungkyu Lee
 </div>
 
 <hr>
-<p><em>"The best way to predict the future is to invent it."</em> - Alan Kay</p>
-<p><em>Last updated: Sep. 2026</em></p>
+<p><em>Last updated: Oct. 2026</em></p>
 
 <style>
 div[class$="-section"] {
